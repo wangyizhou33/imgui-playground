@@ -1,0 +1,11 @@
+
+[requires]
+opengl/system
+xorg/system
+imgui/1.90
+glfw/3.3.8
+glew/2.2.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
